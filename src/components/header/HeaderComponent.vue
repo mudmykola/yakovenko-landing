@@ -4,7 +4,7 @@ import HeaderImageComponent from '@/components/header/HeaderImageComponent.vue'
 </script>
 
 <template>
-  <div class="header flex justify-between">
+  <div class="header flex justify-between mt-[2.875rem] items-center">
     <header-text-component />
     <header-image-component />
   </div>
