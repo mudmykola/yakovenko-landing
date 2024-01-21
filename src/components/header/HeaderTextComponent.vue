@@ -17,7 +17,8 @@ const handlePrimaryClick = () => {
     <span class="pt-[0.563rem] text-[3.125rem] font-bold text-c101">{{ $t('header.headerSubTitle')
       }}</span>
     <p class="mt-[3.125rem] text-[1.563rem] font-normal text-c106"> {{ $t('header.headerDesc') }}</p>
-    <global-btn class="mt-[3.75rem]" type="primary" @click="handlePrimaryClick">{{ $t('header.headerBtn') }}
+    <global-btn class="mt-[3.75rem] hover:bg-h102" type="primary" @click="handlePrimaryClick">{{ $t('header.headerBtn')
+      }}
     </global-btn>
     <p class="mt-[0.625rem] text-[1.25rem]">{{ $t('header.headerDescGroup') }}</p>
   </div>

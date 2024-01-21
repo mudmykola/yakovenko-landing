@@ -1,0 +1,44 @@
+{
+  "navigation": {
+    "aboutTheCourse": "About The course",
+    "reviews": "Reviews",
+    "price": "Price",
+    "faq": "FAQ"
+  },
+  "header": {
+    "headerTitleSub": "Online course by Anna Yakovenko",
+    "headerTitle": "PSYCHOSOMATICS",
+    "headerSubTitle": "LAUNCHING SELF-HEALING",
+    "headerDesc": "The author's methodology to eliminate the psychological causes of your disease and feel again how to live without symptoms, pain and limitations.",
+    "headerDescGroup": "groups in Ukrainian and Russian to choose from",
+    "headerBtn": "Join us"
+  },
+  "advantages": {
+    "title": "ARE YOU TIRED OF ILLNESS, PAIN, AND LIMITATIONS?",
+    "subTitle": "Who is suitable for this course",
+    "cardText1": "those whose health and body condition does not allow them to live peacefully and do what they want",
+    "cardText2": "who had results after psychological or medical therapy, but then the disease still returned",
+    "cardText3": "whose child is sick and you no longer know how to help, feel powerless, guilty and exhausted",
+    "cardText4": "for whom the usual level of medicine is unavailable, treatment is very expensive, or doctors are only focused on relieving symptoms, not treating the cause"
+  },
+  "signs": {
+    "title": "For those who have long suffered from:",
+    "itemListText1": "sores",
+    "itemListText2": "autoimmune diseases",
+    "itemListText3": "type II diabetes",
+    "itemListText4": "colitis",
+    "itemListText5": "psoriasis, allergies",
+    "itemListText6": "mastopathies",
+    "itemListText7": "insomnia",
+    "itemListText8": "acne, pimples, boils",
+    "itemListText9": "asthma, hypertension",
+    "itemListText10": "infertility",
+    "itemListText11": "cancer, fibrosis, fibroids",
+    "itemListText12": "panic attacks, anxiety"
+  },
+  "order": {
+    "title": "ARE YOUR CHILDREN SICK?",
+    "desc": "If the child is under 9 years old, this course is recommended for parents to take in order to eliminate psychological causes that affect your child's health.",
+    "btn": "Submit a request"
+  }
+}
