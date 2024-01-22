@@ -3,6 +3,7 @@ import HeaderComponent from '@/components/header/HeaderComponent.vue'
 import AdvantagesComponent from '@/components/advantages/AdvantagesComponent.vue'
 import SignsComponent from '@/components/signs/SignsComponent.vue'
 import OrderComponent from '@/components/order/OrderComponent.vue'
+import SolvingComponent from '@/components/solving/SolvingComponent.vue'
 </script>
 
 <template>
@@ -11,5 +12,6 @@ import OrderComponent from '@/components/order/OrderComponent.vue'
     <advantages-component />
     <signs-component />
     <order-component />
+    <solving-component />
   </div>
 </template>
