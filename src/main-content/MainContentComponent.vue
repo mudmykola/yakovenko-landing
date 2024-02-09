@@ -4,6 +4,7 @@ import AdvantagesComponent from '@/components/advantages/AdvantagesComponent.vue
 import SignsComponent from '@/components/signs/SignsComponent.vue'
 import OrderComponent from '@/components/order/OrderComponent.vue'
 import SolvingComponent from '@/components/solving/SolvingComponent.vue'
+import TherapyRecoveryComponent from '@/components/therapy/TherapyRecoveryComponent.vue'
 </script>
 
 <template>
@@ -13,5 +14,6 @@ import SolvingComponent from '@/components/solving/SolvingComponent.vue'
     <signs-component />
     <order-component />
     <solving-component />
+    <therapy-recovery-component />
   </div>
 </template>
