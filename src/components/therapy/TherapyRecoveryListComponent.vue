@@ -6,7 +6,7 @@ const { highlightText } = useHighlightText()
 </script>
 
 <template>
-  <div>
+  <div class="therapy-recovery__list">
     <ul>
       <li v-for="(item, index) in therapyItems" :key="index">
         <p class="text-[1.25rem] leading-[1.875rem]" v-html="highlightText($t(item.text))"></p>
@@ -16,7 +16,7 @@ const { highlightText } = useHighlightText()
 </template>
 
 <style lang="css">
-li + li {
+.therapy-recovery__list li + li {
   margin-top: 49px;
 }
 </style>
